@@ -1,8 +1,8 @@
-#INTERACTIVE DASHBOARD in EXCEL
-<b> **Overview:**</b>
+# INTERACTIVE DASHBOARD in EXCEL
+<b>Overview:</b>
 Welcome to Chitra Collections Annual Report 2024 Dashboard. This Project report presents the annual report of a store using advanced Excel techniques such as Pivot table, Pivot charts and slicers. The primary objective of this project is to analyse and visualize key business metrics, providing stakeholders with a comprehensive overview of sales performance.<br>
 
- Key Features of the Project:
+<b> Key Features of the Project:</b>
  
 This report uses Excel’s data Visualization and analytical capabilities, This Dashboard enhances data-driven decision making and enables real time monitoring of business performance. It includes six pivotal charts that cover crucial aspects of Chitra Collection’s performance:<br>
 
