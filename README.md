@@ -37,7 +37,7 @@ Filter by product categories like saree, kurta, and more to analyse category spe
 2.3. Channel:
 Filter by sales platforms to assess the effectiveness of different sales channels.<br>
 
-<b>Objectives</b>
+<b>Objectives</b><br>
 The following are the objectives discussed in this project report:<br>
 
 	Dynamic Data Visualization: 
@@ -56,7 +56,7 @@ Analyse overall sales trends and order data to assess business growth.<br>
 	Strategic Decision Support: 
 Provide actionable insights for improving sales strategies and targeting the right customer segments.<br>
 
-<b> Result And Discussion</b>
+<b> Result And Discussion</b><br>
  The Advanced Excel dashboard for Chitra Collections Annual Report 2024 provides comprehensive insights into various aspects of sales and orders:<br>
 
 	Order and Sales Trends: 
@@ -69,7 +69,7 @@ Visualization of order statuses highlights the proportion of completed, pending,
 	Top 5 States:
 The chart for top-performing states showcases regional sales performance, guiding regional marketing efforts. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%).<br>
 
-	Demographic Insights:
+ Demographic Insights:
 The age group and gender distribution charts offer valuable insights into customer demographics, aiding targeted marketing strategies. Adult age group is max contributing (~50%).<br>
 
 
