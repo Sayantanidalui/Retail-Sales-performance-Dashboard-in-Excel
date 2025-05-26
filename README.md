@@ -79,4 +79,9 @@ The platform chart identifies the most effective sales channels, informing platf
 
 The dashboard's interactive features, such as slicers, enable users to filter data dynamically, facilitating detailed analysis and quick decision-making. The project successfully addresses the initial problem of data visualization and analysis.
 
+The Dashboard:
+
+![Screenshot (145)](https://github.com/user-attachments/assets/fcf85f32-8d86-4547-a088-275eecc57d66)
+
+
 
