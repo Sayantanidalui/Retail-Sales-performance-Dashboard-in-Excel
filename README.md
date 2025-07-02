@@ -29,6 +29,12 @@ This project presents the **Chitra Collections Annual Report 2024** through an i
 
 ---
 
+## 🧠 Key Analysis
+
+The dashboard shows a noticeable peak in sales and orders during March, making it the strongest month of the year. Amazon (35%), Flipkart (22%), and Myntra (23%) dominate the sales channels, together contributing to 80% of total orders. The top-performing states were Maharashtra (3.0M), Karnataka (2.6M), and Uttar Pradesh (2.1M), indicating strong regional demand. Women accounted for 64% of total orders, with the highest purchases from adult women (~44%). Operationally, the brand maintained excellent service quality, with 92% of orders successfully delivered and minimal returns or cancellations.
+
+---
+
 📁 *Tools*: Microsoft Excel  
 📅 *Scope*: Full Year 2024  
 🎯 *Goal*: Visualize key metrics, understand trends, and support business strategy
